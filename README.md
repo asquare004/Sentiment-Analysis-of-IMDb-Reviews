@@ -1,4 +1,4 @@
-# Sentiment Analysis of IMDb-Reviews
+# Sentiment Analysis of IMDb Reviews
 
 This repository contains code for sentiment analysis of IMDb reviews using the following three models :
 
